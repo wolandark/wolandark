@@ -3,7 +3,7 @@
 My name is Ariana Asl aka Woland
 
 About me:
-- 😎 Creator of Wim
+- 😎 Creator of [Wim](https://github.com/wolandark/wim)
 - ❤️ Bash is my first love
 - 🌱 Currently learning C and python
 - 💲 I make custom vim configuration and do freelance sys-admin work
