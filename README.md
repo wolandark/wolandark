@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**wolandark/wolandark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ariana Asl aka Woland
 
-Here are some ideas to get you started:
+About me:
+- 😎 Creator of Wim
+- ❤️ Bash is my first love
+- 🌱 Currently learning C and python
+- 💲 I make custom vim configuration and do freelance sys-admin work
+- 👯 looking to collaborate on anything linux related
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: contact-woland@proton.me
+
+- ⚡ Fun fact: I'm a musician turned programmer
+
+
