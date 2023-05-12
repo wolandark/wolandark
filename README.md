@@ -1,11 +1,12 @@
 <div align="center" style="display: inline_block">
-  <h3> Hi there 👋
-
-My name is Ariana Asl aka Woland </h3>
-    <img  height="140em"  src="https://github-readme-stats.vercel.app/api?username=wolandark&show_icons=true&theme=tokyonight"/>
-    <img  height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolandark&layout=compact&show_icons=true&theme=tokyonight"/>
+  <h3> Hi there 👋 </h3>
+  <h3>My name is Ariana Asl aka Woland </h4>
+    <img  src="https://github-readme-stats.vercel.app/api?username=wolandark&show_icons=true&theme=tokyonight"/>
 </div>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight" />
+</div>
 
 <div>
   <h3> About me: </h3>
