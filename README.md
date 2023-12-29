@@ -33,12 +33,16 @@
 <li><a href="https://wolandark.github.io/vimsnake/">Vim Snake Game</a></li>
 <li><a href="https://wolandark.github.io/VimMaze/">Vim Maze Game</a></li>
 <li><a href="https://vimpersian.github.io">VimPersian - The Most Detailed Vim Guide In Persian</a></li>
+<li><a href="https://github.com/wolandark/Mitra-Vim">Mitra-Vim - A Vim colorscheme using the persian palette (In development) </a></li>
+<li><a href="https://github.com/wolandark/vim-ez-emoji">Vim-ez-emoji - An easy emoji plugin for Vim, written in Vim9Script</a></li>
+<li><a href="https://github.com/wolandark/Vimwiki-Graphviz">Vimwiki-Graphviz - VimWiki Graph Generator. Creating an image of your second brain</a></li>
 </ul>
 <ul>
 <h4>Neat Automations</h4>
 <li><a href="https://github.com/wolandark/FreeBSD_Post_Install">FreeBSD Post Install</a></li>
 <li><a href="https://github.com/wolandark/PyEnv">A Python Virtual Env Setup Script In BASH</a></li>
 <li><a href="https://github.com/wolandark/Arch-Persianizer">Archlinux Persianizer</a></li>
+<li><a href="https://github.com/wolandark/Vimwiki-Graphviz">Vimwiki-Graphviz - VimWiki Graph Generator. Creating an image of your second brain</a></li>
 </ul>
 <h4>Telegram Bots</h4>
 <ul><li><a href="https://github.com/wolandark/TSBB">Telegram Server Backup Bot In BASH</a></li>
@@ -47,6 +51,7 @@
 <ul>
 <h4>Misc</h4>
 <li><a href="https://wolandark.github.io/awk-cheatsheet-farsi/">AWK Cheatsheet In Persian</a></li>  
+<li><a href="https://github.com/wolandark/Aseprite_GBStudio_Color_Converter_">Aseprite Plugin for Reducing and Converting the Current Color Palette, Into Gameboy Palette </a></li>
 </ul>
 </div>
 
