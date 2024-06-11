@@ -18,7 +18,7 @@
   <li> 👯 looking to collaborate on anything linux related</li>
   <li> 📫 How to reach me: contact-woland@proton.me</li>
   <li>🔗 <a href="https://wolandark.github.io">My Corner of Thoughts, Ideas and Rants</a></li>
-  <li> ⚡ Fun fact: I'm a musician turned programmer</li>
+  <li> ⚡ Fun fact: I'm a musician turned programmer. See <a href="https://woland.tilde.team/vitruvian/">Vitruvian</a></li>
 </div>
 
 <div>
