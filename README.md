@@ -33,16 +33,16 @@
 <li><a href="https://wolandark.github.io/vimsnake/">Vim Snake Game</a></li>
 <li><a href="https://wolandark.github.io/VimMaze/">Vim Maze Game</a></li>
 <li><a href="https://vimpersian.github.io">VimPersian - The Most Detailed Vim Guide In Persian</a></li>
-<li><a href="https://github.com/wolandark/Mitra-Vim">Mitra-Vim - A Vim colorscheme using the persian palette</a></li>
 <li><a href="https://github.com/wolandark/vim-ez-emoji">Vim-ez-emoji - An easy emoji plugin for Vim, written in Vim9Script</a></li>
 <li><a href="https://github.com/wolandark/Vimwiki-Graphviz">Vimwiki-Graphviz - VimWiki Graph Generator. Creating an image of your second brain</a></li>
 </ul>
 <h4>Vim Colorschmes</h4>
 <ul>
+<li><a href="https://github.com/wolandark/Mitra-Vim">Mitra-Vim - A colorschme based on the Persian palette for Vim/Nvim</a></li>
 <li><a href="https://github.com/wolandark/NotePad-Vim">NotePad-Vim - A light sepia-ish colorscheme for Vim/Nvim</a></li>
 <li><a href="https://github.com/wolandark/Pool-Vim">Pool-Vim - A Vim/Nvim colorschmes based on the colors of the traditional Persian mosaic pools</a></li>
 <li><a href="https://github.com/wolandark/ColorschemeFromHell-Vim">ColorschmeFromHell-Vim - A Hellish colorschme for Vim/Nvim</a></li>
-<li><a href="https://github.com/wolandark/Mitra-Vim">Mitra-Vim - A colorschme based on the Persian palette for Vim/Nvim</a></li>
+
   
 </ul>
   
