@@ -14,7 +14,8 @@
   <h3> About me: </h3>
   <li>😎 Creator of <a href="https://github.com/wolandark/wim">Wim</a></li>
   <li> ❤️ Bash is my first love</li>
-  <li> 💲 I make custom vim configuration and do freelance sys-admin work</li>
+  <li> 💵  I'm a Unix system admin and a full-stack developer (in the making) </li>
+  <li> 💲 I make custom vim configurations
   <li> 👯 looking to collaborate on anything linux related</li>
   <li> 📫 How to reach me: contact-woland@proton.me</li>
   <li>🔗 <a href="https://wolandark.github.io">My Corner of Thoughts, Ideas and Rants</a></li>
