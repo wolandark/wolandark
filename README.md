@@ -33,7 +33,7 @@
 <li><a href="https://wolandark.github.io/vimsnake/">Vim Snake Game</a></li>
 <li><a href="https://wolandark.github.io/VimMaze/">Vim Maze Game</a></li>
 <li><a href="https://vimpersian.github.io">VimPersian - The Most Detailed Vim Guide In Persian</a></li>
-<li><a href="https://github.com/wolandark/Mitra-Vim">Mitra-Vim - A Vim colorscheme using the persian palette (In development) </a></li>
+<li><a href="https://github.com/wolandark/Mitra-Vim">Mitra-Vim - A Vim colorscheme using the persian palette</a></li>
 <li><a href="https://github.com/wolandark/vim-ez-emoji">Vim-ez-emoji - An easy emoji plugin for Vim, written in Vim9Script</a></li>
 <li><a href="https://github.com/wolandark/Vimwiki-Graphviz">Vimwiki-Graphviz - VimWiki Graph Generator. Creating an image of your second brain</a></li>
 </ul>
