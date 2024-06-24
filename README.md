@@ -26,9 +26,13 @@
 <h3>My Favorite Repos</h3>
 <li><a href="https://github.com/wolandark/wim">Wim - Woland's Vim</a></li>
 <li><a href="https://github.com/wolandark/BASH_Scripts_For_Everyone">BASH Scripts For Everyone</a></li>
+<li><a href="https://github.com/wolandark/vim-ddgpb">VimDDGPB - Search DuckDuckGo or Submit to Paste Bin From Vim </a></li>
+<li><a href="https://github.com/wolandark/vimdict">VimDict - Dictionary Plugin For Vim</a></li>
 <ul>
 <h4>Vim Things</h4>
 <li><a href="https://github.com/wolandark/vim-live-server">Vim Live Server</a></li>
+<li><a href="https://github.com/wolandark/vim-ddgpb">VimDDGPB - Search DuckDuckGo or Submit to Paste Bin From Vim </a></li>
+<li><a href="https://github.com/wolandark/vimdict">VimDict - Dictionary Plugin For Vim</a></li>
 <li><a href="https://github.com/wolandark/mysticpsum">Mysticipsum - A Mystical Placeholder Text For Vim </a></li>
 <li><a href="https://github.com/wolandark/redundant">Redundant - My Personal Markdown Helper Plugin For Vim</a></li>
 <li><a href="https://wolandark.github.io/vimsnake/">Vim Snake Game</a></li>
