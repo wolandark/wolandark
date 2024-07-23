@@ -118,8 +118,10 @@
 <ul>
 <h4>Vim Things</h4>
 <li><a href="https://github.com/wolandark/vim-live-server">Vim Live Server</a></li>
-<li><a href="https://github.com/wolandark/vim-ddgpb">VimDDGPB - Search DuckDuckGo or Submit to Paste Bin From Vim </a></li>
+<li><a href="https://github.com/wolandark/vim-ddgpb">Vim-DDGPB - Search DuckDuckGo or Submit to Paste Bin From Vim </a></li>
 <li><a href="https://github.com/wolandark/vimdict">VimDict - Dictionary Plugin For Vim</a></li>
+<li><a href="https://github.com/wolandark/vim-piper">Vim-Piper - Text to Speech For Vim Using Piper</a></li>
+<li><a href="https://github.com/wolandark/vim-espeak">Vim-Espeak - Text to Speech For Vim Using Espeak</a></li>
 <li><a href="https://github.com/wolandark/mysticpsum">Mysticipsum - A Mystical Placeholder Text For Vim </a></li>
 <li><a href="https://github.com/wolandark/redundant">Redundant - My Personal Markdown Helper Plugin For Vim</a></li>
 <li><a href="https://wolandark.github.io/vimsnake/">Vim Snake Game</a></li>
