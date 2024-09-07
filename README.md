@@ -94,7 +94,10 @@
     height="40"
   />
 </a>
+  <p align="center"> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> </p>
 </p>
+
+
 
 <div>
   <h3> About me: </h3>
