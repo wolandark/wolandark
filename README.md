@@ -98,7 +98,7 @@
    <li>😎 Creator of <a href="https://github.com/wolandark/wim">Wim</a></li>
    <li> ❤️ Bash is my first love</li>
    <li> 💵  I'm a Unix system admin and a full-stack developer (in the making) </li>
-   <li>Currently doing C# GUI development for a living</li>
+   <li>I'm currently working at Hesabrayan.Co as .NET developer and desvops advisor</li>
    <li> 💲 I make custom vim configurations
       <li> 👯 looking to collaborate on anything linux related</li>
       <li> 📫 How to reach me: contact-woland@proton.me</li>
