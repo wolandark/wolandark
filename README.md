@@ -2,7 +2,7 @@
 <div align="center" style="display: inline_block">
    <h3> Hi there 👋 </h3>
    <h3>My name is Ariana Asl aka Woland </h4>
-   <img  src="https://github-readme-stats.vercel.app/api?username=wolandark&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolandark&layout=donut&theme=tokyonight&exclude_repo=public-dotfiles&hide=python" />
 </div>
 
 <div align="center">
@@ -91,7 +91,6 @@
 <p align="center"> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> </p>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolandark&layout=donut&theme=tokyonight&exclude_repo=public-dotfiles&hide=python" />
 
 
 <div>
