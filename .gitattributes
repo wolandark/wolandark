@@ -1,0 +1,3 @@
+*.sh linguist-language=Bash
+*.cs linguist-language=C#
+*.vim linguist-language=VimL
