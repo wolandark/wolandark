@@ -91,6 +91,7 @@
 <p align="center"> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> </p>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolandark&layout=donut&theme=tokyonight&exclude_repo=public-dotfiles&hide=python" />
 
 
 <div>
