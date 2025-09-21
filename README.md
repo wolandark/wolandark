@@ -5,6 +5,8 @@
       <img  src="https://github-readme-stats.vercel.app/api?username=wolandark&show_icons=true&theme=tokyonight"/>
 </div>
 
+<!--
+
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolandark&layout=donut&theme=tokyonight&exclude_repo=public-dotfiles&hide=python" />
 
@@ -92,18 +94,32 @@
 <p align="center"> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> </p>
 </p>
 
+-->
 
+```
+Through life I moved,
+restless and unbound,
+
+a wanderer of thought,
+a wayward in a world of draught,
+
+never stationary, 
+never stagnant, 
+until I found myself in the mystery of the commands
+
+<< Effigy of Woland >> 
+```
 
 <div>
    <h3> About me: </h3>
-   <li>😎 Creator of <a href="https://github.com/wolandark/wim">Wim</a></li>
-   <li> ❤️ Bash is my first love</li>
-   <li> 💵  I'm a Unix system admin and a devops engineer </li>
-   <li> 💲 I make custom vim configurations
-      <li> 👯 looking to collaborate on anything linux related</li>
-      <li> 📫 How to reach me: contact-woland@proton.me</li>
-      <li>🔗 <a href="https://wolandark.github.io">My Corner of Thoughts, Ideas and Rants</a></li>
-      <li> ⚡ Fun fact: I'm a musician turned programmer. See <a href="https://woland.tilde.team/vitruvian/">Vitruvian</a></li>
+   <li>Creator of <a href="https://github.com/wolandark/wim">Wim</a></li>
+   <li>Bash is my first love</li>
+   <li>I'm a Unix system admin and a devops engineer </li>
+   <li>I make custom vim configurations
+      <li> looking to collaborate on anything linux related</li>
+      <li>How to reach me: contact-woland@proton.me</li>
+      <li><a href="https://wolandark.github.io">My Corner of Thoughts, Ideas and Rants</a></li>
+      <li>Fun fact: I'm a musician turned programmer. See <a href="https://woland.tilde.team/vitruvian/">Vitruvian</a></li>
    <li>In an ideal world, we would only need C and Vim, but this is not that world!</li>
 </div>
 
