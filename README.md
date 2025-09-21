@@ -98,8 +98,7 @@
    <h3> About me: </h3>
    <li>😎 Creator of <a href="https://github.com/wolandark/wim">Wim</a></li>
    <li> ❤️ Bash is my first love</li>
-   <li> 💵  I'm a Unix system admin and a devops engineer who is forced to do .NET development in this cruel world </li>
-   <li>I'm currently working at <a href="https://www.hesabrayan.com">Hesabrayan</a> as .NET developer and part-time devops engineer</li>
+   <li> 💵  I'm a Unix system admin and a devops engineer </li>
    <li> 💲 I make custom vim configurations
       <li> 👯 looking to collaborate on anything linux related</li>
       <li> 📫 How to reach me: contact-woland@proton.me</li>
@@ -143,7 +142,6 @@
    <ul>
       <h4>Neat Automations</h4>
       <li><a href="https://github.com/wolandark/FreeBSD_Post_Install">FreeBSD Post Install</a></li>
-      <li><a href="https://github.com/wolandark/PyEnv">A Python Virtual Env Setup Script In BASH</a></li>
       <li><a href="https://github.com/wolandark/Arch-Persianizer">Archlinux Persianizer</a></li>
       <li><a href="https://github.com/wolandark/Vimwiki-Graphviz">Vimwiki-Graphviz - VimWiki Graph Generator. Creating an image of your second brain</a></li>
    </ul>
