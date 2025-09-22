@@ -1,6 +1,5 @@
 
 <div align="center" style="display: inline_block">
-   <h3> Hi there 👋 </h3>
    <h3>My name is Ariana Asl aka Woland </h4>
       <img  src="https://github-readme-stats.vercel.app/api?username=wolandark&show_icons=true&theme=tokyonight"/>
 </div>
@@ -179,8 +178,5 @@ until I found myself in the mystery of the commands
    [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact-woland@proton.me)
 
    <hr>
-
-   ![Metrics](https://metrics.lecoq.io/wolandark)
-
 </div>
 
