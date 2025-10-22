@@ -131,6 +131,8 @@ until I found myself in the mystery of the commands
    <li><a href="https://github.com/wolandark/vimdict">VimDict - Dictionary Plugin For Vim</a></li>
    <ul>
       <h4>Vim Things</h4>
+      <li><a href="https://github.com/wolandark/mthesaur-vim"> local thesaurus vim plugin using Golang for speed </a></li>
+      <li><a href="https://github.com/wolandark/gitinline-vim/tree/master"> gitinline-vim - inline rt git diff highlights </a></li>
       <li><a href="https://github.com/wolandark/vim-live-server">Vim Live Server</a></li>
       <li><a href="https://github.com/wolandark/vim-ddgpb">Vim-DDGPB - Search DuckDuckGo or Submit to Paste Bin From Vim </a></li>
       <li><a href="https://github.com/wolandark/vimdict">VimDict - Dictionary Plugin For Vim</a></li>
