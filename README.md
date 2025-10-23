@@ -117,7 +117,7 @@ until I found myself in the mystery of the commands
    <li>I make custom vim configurations
       <li> looking to collaborate on anything linux related</li>
       <li>How to reach me: contact-woland@proton.me</li>
-      <li><a href="https://wolandark.github.io">My Corner of Thoughts, Ideas and Rants</a></li>
+      <li><a href="https://wlrants.fun/">My Corner of Thoughts, Ideas and Rants</a></li>
       <li>Fun fact: I'm a musician turned programmer. See <a href="https://woland.tilde.team/vitruvian/">Vitruvian</a></li>
    <li>In an ideal world, we would only need C and Vim, but this is not that world!</li>
 </div>
