@@ -113,9 +113,8 @@ until I found myself in the mystery of the commands
    <h3> About me: </h3>
    <li>Creator of <a href="https://github.com/wolandark/wim">Wim</a></li>
    <li>Bash is my first love</li>
-   <li>I'm a Unix system admin and a devops engineer </li>
-   <li>I make custom vim configurations
-      <li> looking to collaborate on anything linux related</li>
+   <li>I'm a Golang developer and cloud infrastructure engineer at <a href="https://github.com/cloudzyvps">Cloudzy</a> </li>
+      <li> Interested in collaborating on anything linux related</li>
       <li>How to reach me: contact-woland@proton.me</li>
       <li><a href="https://wlrants.fun/">My Corner of Thoughts, Ideas and Rants</a></li>
       <li>Fun fact: I'm a musician turned programmer. See <a href="https://woland.tilde.team/vitruvian/">Vitruvian</a></li>
